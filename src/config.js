@@ -1,13 +1,11 @@
-
-const config = {
-    apiKey: "AIzaSyCQmFRejngoXoRcGIbMnObMe8S0wAKbNLE",
-    authDomain: "todo-lab8-8906c.firebaseapp.com",
-    databaseURL: "https://todo-lab8-8906c.firebaseio.com",
-    projectId: "todo-lab8-8906c",
-    storageBucket: "todo-lab8-8906c.appspot.com",
-    messagingSenderId: "487384226538",
-    appId: "1:487384226538:web:e89a23c65b30d6cd1bd593",
-    measurementId: "G-YJLGC97FD0"
+const firebaseConfig = {
+    apiKey: "AIzaSyAEuPE0gCt4RcZJqxfyo1xKGWiar67zK50",
+    authDomain: "lab08-079.firebaseapp.com",
+    databaseURL: "https://lab08-079.firebaseio.com",
+    projectId: "lab08-079",
+    storageBucket: "lab08-079.appspot.com",
+    messagingSenderId: "778215202726",
+    appId: "1:778215202726:web:e389ad38277db2fff07967",
+    measurementId: "G-GXWEQPLSK6"
   };
-
-  export default config;
+  export default firebaseConfig;
