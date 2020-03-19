@@ -1,0 +1,50 @@
+li{
+    display: flex;
+    flex-direction: column;
+    width: 180px;
+    height: 200px;;
+    border-style: solid;
+    margin: 0 16px 0 16px;
+    box-shadow: 0 0 6px 0 rosybrown;
+    border-radius: 4px;
+    overflow: hidden;
+}
+
+.id{
+    position: absolute;
+    right: 4px;
+    top :2px;
+}
+
+.name{
+    font-size: 2em;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+    flex: 1;
+    
+}
+.button{
+    justify-content: center;
+    width: 100px;
+    height: 30px;
+    display : flex;
+   
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
+.green{
+    background-color: lightgreen;
+}
+.red{
+    background-color: lightsalmon;
+}
+.todo{
+    flex-direction: column;
+    margin: 0 16px 0 16px;
+    overflow: hidden; 
+}
+
